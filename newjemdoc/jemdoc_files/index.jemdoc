@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}
-= Hongbo Bo
+= Hongbo Bo 薄宏博
 
 ~~~
 {}{img_left}{images/bhb.jpeg}{alt text}{122.4px}{163.2px}{}
@@ -10,15 +10,24 @@ Contact: [hongbo.bo@bristol.ac.uk Email], [https://github.com/BhbatBristol Githu
 ~~~
 
 == Short Bio 
-I am a Ph.D. student in CS at University of Bristol supervised by Professor [http://www.bristol.ac.uk/engineering/people/weiru-liu/index.html Weiru Liu] (Co-supervised with Ryan Mcconville and Jun Hong). I'm currently particuarly interested in Data Science, Machine Learning and AI. I obtained my Master degree in Advanced Computer Science from University of Manchester. I got my Bachelor degree in Software Engineering, Harbin Institute of Technology.
-
-== Education 
-- Ph.D., Computer Science, University of Bristol, Dec. 2018 - Present
-- M.Sc., Advanced Computer Science, University of Manchester, Sep. 2016 - Sep. 2017
-- B.E., Software Engineering, Harbin Institute of Technology, Sep. 2012 - July 2016
+I am a Ph.D. student in CS at University of Bristol supervised by Professor [https://research-information.bris.ac.uk/en/persons/weiru-liu Weiru Liu] (Co-supervised with [https://ryanmcconville.com/ Ryan Mcconville] and [https://people.uwe.ac.uk/Person/JunHong Jun Hong]). I'm currently particuarly interested in Data Science, Machine Learning and AI. I obtained my Master degree in Advanced Computer Science from University of Manchester. I got my Bachelor degree in Software Engineering, Harbin Institute of Technology.
 
 == Research Interests 
 - Data Mining 
 - Graph Neural Networks
 - Continual learning
 - Social Networks Analysis
+
+== Education 
+- Ph.D., Computer Science, University of Bristol, Dec. 2018 - Present
+- M.Sc., Advanced Computer Science, University of Manchester, Sep. 2016 - Sep. 2017
+- B.E., Software Engineering, Harbin Institute of Technology, Sep. 2012 - July 2016
+
+== Teaching
+- TA for COMSM1201: Programming in C
+
+== Services
+- Reviewer for WWW 2022
+
+
+

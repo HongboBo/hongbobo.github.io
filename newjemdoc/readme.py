@@ -1,0 +1,1 @@
+python jemdoc.py -c mysite.conf -o ../www/ publication.jemdoc
