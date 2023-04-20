@@ -1,7 +1,0 @@
-# jemdoc: menu{MENU}{publication.html}
-= Publications 
-[https://dblp.uni-trier.de/pers/hd/b/Bo:Hongbo \[DBLP\]]
-- 2020
--- [https://dl.acm.org/doi/10.1145/3366424.3383299 Social Network Influence Ranking via Embedding Network Interactions for User Recommendation]\n
-*Hongbo Bo*, Ryan McConville, Jun Hong, Weiru Liu\n
-In Companion Proceedings of the Web Conference (WWW) 2020
