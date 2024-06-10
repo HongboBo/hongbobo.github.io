@@ -1,5 +1,10 @@
-# jemdoc: menu{MENU}{publication.html}
+# jemdoc: menu{MENU}{publication.html}, nodate
 [https://scholar.google.co.uk/citations?user=tqbace8AAAAJ&hl=en&oi=ao \[Google Scolar\]]
+
+- 2024
+-- [https://arxiv.org/html/2401.01846v1 DGDNN: Decoupled graph diffusion neural network for stock movement prediction]\n
+Zinuo You, Zijian Shi, *Hongbo Bo*, John Cartlidge, Li Zhang, Yan Ge\n
+Proceedings of the 16th International Conference on Agents and Artificial Intelligence (ICAART) 2024
 
 - 2023
 -- [https://link.springer.com/chapter/10.1007/978-3-031-44067-0_17 What Will Make Misinformation Spread: An XAI Perspective]\n
