@@ -1,0 +1,40 @@
+languageCode = "en-us"
+title = "Hongbo Bo"
+theme = "PaperMod"
+publishDir = "docs"
+baseURL = "https://hongbobo.github.io/"
+
+[params]
+author = "Hongbo Bo"
+description = "Senior Research Associate at University of Bristol"
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = false
+
+[params.homeInfoParams]
+Title = "Hongbo Bo 薄宏博"
+Content = "SRA @ CenSoF & University of Bristol"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:hongbo.bo@bristol.ac.uk"
+
+[[params.socialIcons]]
+name = "googlescholar"
+url = "https://scholar.google.co.uk/citations?user=tqbace8AAAAJ&hl=en&oi=ao"
+
+[[menu.main]]
+name = "About"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Publications"
+url = "/publications/"
+weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
