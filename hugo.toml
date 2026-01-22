@@ -12,6 +12,9 @@ ShowShareButtons = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = false
 
+[params.assets]
+favicon = "/favicon.png"
+
 [params.homeInfoParams]
 Title = "Hongbo Bo 薄宏博"
 Content = "SRA @ CenSoF & University of Bristol"

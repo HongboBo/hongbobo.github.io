@@ -22,9 +22,9 @@ I am a Senior Research Associate working on AI TAPs at [CenSoF](https://www.bris
 
 ## Research Interests
 
-- Generative AI
-- Graph Neural Networks
-- Social Networks Analysis
+- Multi-agents
+- GNNs
+- LLMs
 
 ## Education
 
@@ -37,10 +37,10 @@ I am a Senior Research Associate working on AI TAPs at [CenSoF](https://www.bris
 - Supervisor for HDR-UK Biomedical Vacation Scholarship programme 2024
 - TA for COMSM1201: Programming in C
 
-## Services
+<!-- ## Services
 
-- **PC**: ECAI 2025, AIES 2025
+- **PC**: ECAI 2025, AIES 2025, AAAI 2026
 - **Journal Reviewer**:
   - Information Processing and Management
   - Transactions on Knowledge Discovery from Data
-  - Image and Vision Computing
+  - Image and Vision Computing -->
